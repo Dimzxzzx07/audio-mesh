@@ -1,0 +1,28 @@
+{
+  "name": "audio-mesh",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Audio mesh networking or processing utility",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "author": "Dimzxzzx07",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimzxzzx07/audio-mesh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dimzxzzx07/audio-mesh/issues"
+  },
+  "homepage": "https://github.com/Dimzxzzx07/audio-mesh#readme"
+}
